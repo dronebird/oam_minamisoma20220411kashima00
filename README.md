@@ -1,5 +1,6 @@
 # oam_minamisoma20220411kashima00
-福島県南相馬市鹿島地区の2022年3月16日(23：36JST)福島沖地震による被災/復旧状況空撮　M7.4（最大震度6強）　
+福島県南相馬市鹿島地区の2022年3月16日(23：36JST)福島沖地震による被災/復旧状況空撮　M7.4（最大震度6強）
+![20220411minamisoma](https://user-images.githubusercontent.com/15658355/234565756-c39f9c5d-dee9-4caf-a9b1-bd053eb5a1d9.jpg)
 # プレビュー
 * [OpenAerialMap](https://map.openaerialmap.org/#/140.96582293510437,37.705375233297914,16/user/5b0c9d242b6a08001185f1a7/625601645c48220007e7c9a9?_k=fmtk55)
 * [ひなたGIS](https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#GAM4DkMAsBA8	)
